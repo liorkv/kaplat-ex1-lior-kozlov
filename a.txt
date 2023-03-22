@@ -1,2 +1,2 @@
 First file created
-Added new line
+Changed this line
